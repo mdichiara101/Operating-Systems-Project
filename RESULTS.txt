@@ -1,0 +1,9 @@
+Displayinfo.sh
+Outputs a Hello message to the current user then displays the current time. Following this it isplays the current user and displays the current directory
+
+
+Greeting.sh
+Dispalys Good morning, good afternoon, or good evening to the user based on the time. Then displays the current date and time.
+
+Edited Greeting.sh
+Writes good morning, good afternoon, goood evening, or hello to the user based on the time. Then writes the current date and time. File makes sure if output file already exists it will be removed
